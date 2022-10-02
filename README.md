@@ -4,5 +4,3 @@ I am very humgry
 We re going to pune
 We are 
 
-Doing the devops training
-Very nice
